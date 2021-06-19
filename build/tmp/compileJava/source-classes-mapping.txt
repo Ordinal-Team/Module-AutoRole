@@ -1,0 +1,4 @@
+fr/ordinalteam/bot/autorole/listener/GuildJoinListener.java
+ fr.ordinalteam.bot.autorole.listener.GuildJoinListener
+fr/ordinalteam/bot/autorole/Main.java
+ fr.ordinalteam.bot.autorole.Main
